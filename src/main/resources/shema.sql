@@ -1,0 +1,2 @@
+create table TVShow(id int NOT NULL AUTO_INCREMENT, title varchar(255), season int, episode int,PRIMARY KEY (showid));
+create table User(id varchar(50) NOT NULL, name varchar(255), PRIMARY KEY(userid));
