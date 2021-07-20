@@ -57,3 +57,9 @@ Body:{
 Get:
 URL:http://localhost:8080/user/id
 HttpMethod: Get 
+
+## Home Page URL
+http://localhost:8080/shows/home.html
+
+Enter the name of your tvshow and enter the season in corresponding input boxes then click on the submit button, it will show you all the episodes of the show and also your favourites under fav if you have already bookmarked.
+You can click on any show from the list and it will get added to your favourite list.
